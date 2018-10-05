@@ -1,0 +1,21 @@
+.myPhoto {
+    height: 300px;
+    width: 400px;
+}
+
+html {
+    margin: auto;
+    border: 5px double gray;
+    width: 50%;
+    height: auto;
+    background-color: #DCE2EE;
+}
+
+.fullPage{
+    text-align: center
+}
+
+ul {
+    list-style-position: inside
+}
+
